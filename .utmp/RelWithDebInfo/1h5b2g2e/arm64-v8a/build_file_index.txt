@@ -1,0 +1,2 @@
+D:\NX\Unity\Mk2HUD\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\NX\Unity\Mk2HUD\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
